@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">An Associate Data Engineer, passionate about Full Stack Development</h3>
+<h3 align="center">Associate Software & Data Engineer, passionate about Full Stack Development</h3>
 
 - 🔭 I’m currently working on **Data Ingestion & Platform Tools using Java ☕ and Spring Boot 🌿**
 
