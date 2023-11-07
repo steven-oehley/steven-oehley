@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to network **with other developers and engineers**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/stevenjustinoehley/](https://www.linkedin.com/in/stevenjustinoehley/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/stevenjustinoehley/)
 
 - ⚡ Fun fact **Top Voice For Data Engineering On LinkedIn and Previous Analytics Consultant Using Python 🐍**
 
