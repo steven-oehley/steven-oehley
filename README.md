@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
-<h3 align="center">A Software Engineer, focusing on JS and React, and Python 🐍</h3>
+<h3 align="center">A Software Engineer, focusing on JS, React and Python 🐍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-oehley&label=Profile%20views&color=0e75b6&style=flat" alt="steven-oehley" /> </p>
 
-- 🔭 I’m currently working on **Building out projects focused on market research and trend innovation**
+- 🔭 I’m currently working on **Building out SAAS products focused on market research and trend innovation through social prediction**
 
 - 🌱 I’m currently upskilling **my FE development skills**
 
