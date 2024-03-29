@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stevenjustinoehley/](https://www.linkedin.com/in/stevenjustinoehley/)
 
-- ⚡ Fun fact **Top Voice For Data Engineering On LinkedIn and Previous Analytics Consultant Using Python 🐍**
+- ⚡ Fun fact **I was a Top Voice For Data Engineering On LinkedIn and Previous Analytics Consultant Using Python 🐍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
