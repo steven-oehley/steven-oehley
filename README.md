@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/steven-oehley](https://github.com/steven-oehley)
 
-- 💬 Ask me about **Python, SQL and the data space**
+- 💬 Ask me about **Python, SQL, JS and React**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stevenjustinoehley/](https://www.linkedin.com/in/stevenjustinoehley/)
 
