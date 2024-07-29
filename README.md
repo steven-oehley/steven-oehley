@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
 <h3 align="center">A passionate Software Engineer - focusing on TS, React and NextJS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-oehley&label=Profile%20views&color=0e75b6&style=flat" alt="steven-oehley" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-oehley&label=Profile%20views&color=0e75b6&style=onestar" alt="steven-oehley" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steven-oehley" alt="steven-oehley" /></a> </p>
 
